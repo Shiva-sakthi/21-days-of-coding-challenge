@@ -1,0 +1,11 @@
+today i was leaning data types and variables:
+
+variables and containers that will help to store our datas.
+
+ippo example , fish nratha oru container la poduvom and dog na atha oru container la poduvom.
+but cat eduthutu poitu poda mudiyathu right , in the same manner,
+
+if we store the number in container means that is called variable and the data is which type it is an  integer correc ahh so , that time we want to mention the datatype 
+"int" it  is called datatype.
+
+avlothaaa!
