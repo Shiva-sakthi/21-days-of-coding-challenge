@@ -1,0 +1,30 @@
+on this day try to solve some problems of what we learned before ,ok let's start!
+
+the first question is get the user from the input :
+
+sample input:
+jhon 
+45
+
+output:
+my name is jhon 
+my age is 45
+
+now in this will add extra some variable address:
+
+my name is siva
+my age is 34
+my address is . this the output actually i got,
+
+in this output the address is not printed
+why because , whenever we declare the string after the integer that time the string takes the empty line of the output of intger,
+simply says ,genrally the output works line basis right , if example the age is 34 right it prints 34 but remain the blank line are going to next line 
+thats why it does not ask the input. so to avoid this we can use "scan.nextLine()"
+so automattically the line will store on this scanner hereafter the next msy ask thec input.
+
+
+final result:
+
+my name is siva
+my age is 34
+my address is chennai
