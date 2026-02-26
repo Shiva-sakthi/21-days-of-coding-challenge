@@ -1,0 +1,13 @@
+else if :
+
+if else is used after an if statement and before an optional else statement to ttest the multiple conditions sequentially.
+
+simply says generally if conditions works on each block even the conditioon is true on initial stage
+so instead of this we use else if conditions even though the first codition is true means it won't check another conditions
+that's it.
+
+nested if :
+
+simply This nesting allows you to check for multiple conditions in a hierarchical manner, where the inner if statement is executed only if the condition of the outer if statement is true. It's a powerful feature for handling complex decision-making processes.
+
+one if inside the another if condition whether it is a powerful for making a multiple decision.
