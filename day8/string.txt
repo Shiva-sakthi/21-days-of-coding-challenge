@@ -1,0 +1,21 @@
+first of all the the memory is two types :
+
+1. stack 
+2. heap:
+in haep la there are two types :
+string pool , object
+
+
+in string comparator
+
+ okkk let's see object first:
+  in object if we store an string means 
+  eg: a= one and b=one  means i said it is in object 
+  in object each string stored in differrebnt address so generally the java checks the address only not the content so the 
+  we are using the if (a==b) means it shows "flase"
+  why because it check the reference
+  
+  in  string pool means it gives true because in string pool 
+  eg : a= apple and  b= apple means a and b pointing the same address so its check and shows true.
+
+avlotha!!
