@@ -1,0 +1,5 @@
+ternary operator means:
+simply the if else condition 
+like in a single line we can decide and return the result that is called ternary operator.
+
+Avlothaa!!
