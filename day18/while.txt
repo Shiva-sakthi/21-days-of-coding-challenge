@@ -1,0 +1,11 @@
+gennerally we use for loop right .
+
+but today i learned while loop why we have used this 
+
+difference:
+
+in for loop we have to fix the range but in while loop until the condition the is true only it execute 
+where this loop we use in some case we don't know where it was end at the time we used 
+
+the same  for loop concept only we used but in specific case only it will works.
+
