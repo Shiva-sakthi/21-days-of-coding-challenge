@@ -1,0 +1,6 @@
+class and objects:
+
+class means generally we create one class nd inside the class we initialize some datas and we wnat acess inside the main functions
+likewise we have to create one object not one object in one we create many obj and acess through the datas in class .
+
+in example if i go the hotel means i call the server and i want to known some food rate means i ask the server he goes and check the price and the food is there or not and inform me .i dont know the details so i asked server .that's the thing.
