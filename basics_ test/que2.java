@@ -1,4 +1,4 @@
-package java test;
+
 import java.util.Scanner;
 public class que2 {
     public static void main(String[] args) {
